@@ -61,7 +61,7 @@
 		818A57EA223A35B700A6FE96 /* LCKit */ = {
 			isa = PBXGroup;
 			children = (
-				818A5804223A35DF00A6FE96 /* LCUITools */,
+				818A5809223A3DEF00A6FE96 /* LCKit */,
 				818A57EB223A35B700A6FE96 /* AppDelegate.h */,
 				818A57EC223A35B700A6FE96 /* AppDelegate.m */,
 				818A57EE223A35B700A6FE96 /* ViewController.h */,
@@ -90,6 +90,14 @@
 				818A5807223A3A6F00A6FE96 /* LCToastView.m */,
 			);
 			path = OTSPopupView;
+			sourceTree = "<group>";
+		};
+		818A5809223A3DEF00A6FE96 /* LCKit */ = {
+			isa = PBXGroup;
+			children = (
+				818A5804223A35DF00A6FE96 /* LCUITools */,
+			);
+			path = LCKit;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
